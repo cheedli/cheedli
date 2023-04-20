@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 </p>
 ```yaml
 *name: Chedhly Ghorbel*
-located_in: Ariana, Tunisia
+
+*located_in: Ariana, Tunisia*
+```
 current_job:Student 
 education:
   [
@@ -48,4 +50,4 @@ technical_background:
 currently_learning: ["html , css , js , php"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
 hobbies: ["chess", "Cinema", "Art", "Comedy"]
-```
+
