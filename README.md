@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </p>
 ```yaml
 
-* name: Chedhly Ghorbel *
+*name: Chedhly Ghorbel*
 
 *located_in: Ariana, Tunisia*
 ```
