@@ -47,4 +47,5 @@ technical_background:
   
 currently_learning: ["html , css , js , php"]
 2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["chess", "Cinema", "Art", "Comedy"]```
+hobbies: ["chess", "Cinema", "Art", "Comedy"]
+```
