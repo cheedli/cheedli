@@ -14,7 +14,7 @@ located_in: Ariana, Tunisia
 current_job: Student at esprit
 education:
   [
-    "Bac 2023 Lycee Ibn Jazzar Kairouan",
+    "Bac 2021 Lycee Ibn Jazzar Kairouan",
     "Currently studying in ESPRIT",
   ]
 
