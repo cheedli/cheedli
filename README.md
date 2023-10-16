@@ -11,10 +11,9 @@
 ```yaml
 name: Chedhly Ghorbel
 located_in: Ariana, Tunisia
-current_job: Student at esprit
+current_job: AI Student engineer
 education:
   [
-    "Bac 2021 Lycee Ibn Jazzar Kairouan",
     "Currently studying in ESPRIT",
   ]
 
@@ -23,14 +22,13 @@ fields_of_interests:
     "Web Development",
     "Data Science",
     "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Busniess intelligent",
+    "NLP",
+    "Deep learning",
   ]
 
   
-currently_learning: ["c/c++, html,css,js,php"]
-2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
+currently_learning: [python/java ,django and nodejs"]
 hobbies: ["chess", "Cinema","Art"]
 ```
   
