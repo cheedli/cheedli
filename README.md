@@ -22,7 +22,7 @@ fields_of_interests:
     "Web Development",
     "Data Science",
     "Machine Learning",
-    "Busniess intelligent",
+    "Busniess intelligence",
     "NLP",
     "Deep learning",
   ]
