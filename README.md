@@ -1,111 +1,118 @@
+Below is an updated version of your **README.md** file with a more professional tone and a refined, polished design. While maintaining a futuristic aesthetic, I’ve toned down the overly dramatic phrasing (e.g., "Chaos Conqueror") and focused on a sophisticated, recruiter-friendly narrative that highlights your expertise and achievements. The design leverages Markdown’s capabilities with improved readability, cleaner visuals, and a professional yet striking layout.
+
+---
+
+```markdown
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" alt="AI Header">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350" alt="Futuristic Header">
 </p>
 
-<h1 align="center">🚀 AI Engineer | Web Automation | Machine Learning Innovator</h1>
+# **Chedly Ghorbel**  
+## *AI Engineer | Web Automation Expert | Machine Learning Specialist*  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-%2300bfff?style=for-the-badge&logo=artificial-intelligence&logoColor=white">
-  <img src="https://img.shields.io/badge/Computer%20Vision%20Specialist-%23ff69b4?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Enthusiast-%23ffa500?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Hackathon%20Champion-%23ff4500?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <a href="https://www.linkedin.com/in/chedhlyghorbel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:chedhlyghorebl@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🌟 Who Am I?
+## **About Me**  
+I’m **Chedly Ghorbel**, an accomplished **AI and Web Automation Engineer** with a deep expertise in **machine learning**, **computer vision**, and **intelligent automation systems**. My career is defined by a passion for developing innovative, scalable solutions that address complex challenges across industries—from aerospace to cybersecurity.  
 
-👋 Hi, I’m **Chedly Ghorbel**, an **AI & Web Automation Engineer** with a passion for **solving complex problems with intelligent automation**. My expertise lies in:
-- 🔥 **Machine Learning** & **Deep Learning**
-- 🎯 **Computer Vision & Image Processing**
-- 🌍 **AI for Social Good & Industrial Applications**
-- 🏆 **Hackathon-Winning AI Innovations**
-- 🚀 **End-to-End AI Model Deployment & Web Automation**
-
-I specialize in building AI-powered applications that **push the boundaries of automation and intelligence**. Whether it's **real-time analytics, automation, or AI-driven insights**, I bring ideas to life.
-
-💡 **Looking for someone who can turn AI innovation into business impact? Let’s talk.**
+🔹 **Objective:** Leverage cutting-edge AI to drive transformative business outcomes.  
+🔹 **Focus:** Deliver impactful, data-driven solutions with a commitment to excellence.  
 
 ---
 
-## 🚀 Highlighted Projects & Achievements
+## **Key Achievements**  
 
-### 🛰 **Deimos – Space Exploration Innovation**
-🏆 **1st Place - IEEE ATEC Hackathon**
-- 🚀 Developed AI-driven solutions for aerospace technologies.
-- 📡 Advanced computer vision models for **space exploration analysis**.
+### 🛰 **Deimos – AI for Space Exploration**  
+*🏆 1st Place | IEEE ATEC Hackathon*  
+- Designed **AI-driven analytics** to optimize aerospace technologies.  
+- Developed advanced **computer vision models** for space exploration applications.  
 
-### 🔗 **Optichain – AI for Pharmaceutical Supply Chains**
-- 🤖 **AI-driven smart automation** for medicine tracking & quality control.
-- 🔍 Leveraged **YOLOv8**, **EasyOCR**, and **Opia LLM (TinyLlama 1.1B params)**.
+### 🔗 **Optichain – Pharmaceutical Supply Chain Innovation**  
+- Implemented **YOLOv8** and **EasyOCR** for real-time medicine tracking and verification.  
+- Integrated **Opia LLM (TinyLlama 1.1B)** to enhance supply chain automation.  
 
-### 💧 **AquaSense – AI-Powered Water Monitoring**
-🏆 **Finalist - Sustainable Minds 2 Hackathon**
-- 💡 Developed **real-time water pollution detection** using AI.
-- 🌱 Implemented **machine learning-based environmental monitoring**.
+### 💧 **AquaSense – Environmental Monitoring Solution**  
+*🏆 Finalist | Sustainable Minds 2 Hackathon*  
+- Engineered **real-time water pollution detection** using machine learning.  
+- Contributed to sustainable development through **AI-powered environmental insights**.  
 
-### 🔒 **AI-Enhanced Secure File Transfer**
-🏆 **1st Place - HACKATHON 6.0 (Cybersecurity)**
-- 🛡️ Integrated **ML-based malware detection** for cybersecurity.
-- 🔐 Automated **AI-powered encryption & threat defense**.
+### 🔒 **AI-Enhanced Secure File Transfer – Cybersecurity Innovation**  
+*🏆 1st Place | HACKATHON 6.0 (Cybersecurity)*  
+- Built **ML-based malware detection** integrated with secure encryption protocols.  
+- Strengthened data security with **automated threat detection systems**.  
 
-### 🛡 **PeaceLens – AI for Public Safety**
-🥉 **3rd Place - Gotham Hack**
-- 📹 Developed **real-time AI-driven violence detection**.
-- 🚔 Integrated deep learning models to enhance public security.
+### 🛡 **PeaceLens – Public Safety Enhancement**  
+*🥉 3rd Place | Gotham Hack*  
+- Created **real-time violence detection** leveraging deep learning techniques.  
+- Improved public safety through **AI-driven surveillance solutions**.  
 
-### ✈ **AEROLINK – AI for Airline Operations**
-- ✈️ Created **AI-powered flight delay predictions**.
-- 📊 Designed **business intelligence dashboards** for efficiency.
+### ✈ **AEROLINK – Airline Operations Optimization**  
+- Developed **AI-powered flight delay prediction models**.  
+- Designed **interactive dashboards** to streamline operational decision-making.  
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## **Technical Expertise**  
 
 ```json
 {
-  "AI & ML": ["TensorFlow", "PyTorch", "YOLO", "HuggingFace"],
-  "Computer Vision": ["OpenCV", "YOLOv8", "Image Augmentation"],
+  "Machine Learning": ["TensorFlow", "PyTorch", "HuggingFace", "YOLOv8"],
+  "Computer Vision": ["OpenCV", "Image Augmentation", "EasyOCR"],
   "Web Automation": ["Selenium", "Puppeteer", "BeautifulSoup"],
-  "Data Analysis": ["R", "Python", "Pandas"],
-  "DevOps & Tools": ["Jetson Devices", "VMware", "Docker", "Cloudera"]
+  "Data Science": ["Python", "R", "Pandas", "NumPy"],
+  "DevOps": ["Docker", "Jetson Devices", "VMware", "Cloudera"]
 }
 ```
 
----
-
-## 📊 GitHub Stats & Contributions
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif" width="200" alt="Tech Flow">
 </p>
 
 ---
 
-## 💼 **Why Work With Me?**
-✅ **AI-Powered Innovation** – I thrive on designing **cutting-edge AI models** that drive business success.  
-✅ **Problem-Solver Mindset** – I analyze **complex challenges** and turn them into practical AI solutions.  
-✅ **Automation & Optimization** – I optimize workflows with **intelligent AI & automation strategies**.  
-✅ **Award-Winning Hackathon Competitor** – Proven success in **high-pressure, innovation-driven environments**.  
-
-🚀 **I’m open to collaborations, freelance AI projects, and exciting job opportunities!** 🚀
-
----
-
-## 📬 Let’s Connect & Collaborate!
+## **GitHub Insights**  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chedhlyghorbel/"><img src="https://img.shields.io/badge/LinkedIn-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23d14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ULEjxSddmuGjVLxpxV/giphy.gif" width="150" alt="AI Footer">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheedli&show_icons=true&theme=dracula&title_color=FF6C37&text_color=FFFFFF&bg_color=1A1B27" alt="GitHub Stats">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheedli&theme=dracula&ring=FF6C37&fire=FF6C37&currStreakLabel=FF6C37" alt="GitHub Streak">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheedli&layout=compact&theme=dracula&title_color=FF6C37&text_color=FFFFFF&bg_color=1A1B27" alt="Top Languages">
 </p>
 
 ---
 
-⭐ **Innovate. Automate. Elevate.** ⭐
+## **Why Collaborate With Me?**  
+- **Innovative Solutions:** I design **AI-driven systems** that deliver measurable business value.  
+- **Analytical Expertise:** I transform complex problems into **actionable, optimized outcomes**.  
+- **Automation Proficiency:** I enhance efficiency with **robust, scalable automation frameworks**.  
+- **Proven Track Record:** I excel in **competitive, high-stakes environments**, as demonstrated by multiple hackathon wins.  
+
+<p align="center">
+  <b>Interested in driving innovation through AI? Let’s connect.</b>
+</p>
+
+---
+
+## **Contact Information**  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chedhlyghorbel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200" alt="Futuristic Footer">
+</p>
+
+---
+
+<p align="center">
+  <b>Building the Future, One Algorithm at a Time.</b>
+</p>
+```
+
