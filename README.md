@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="300" alt="AI Header">
 </p>
 
-<h1 align="center">👾 AI & Web Automation Engineer 👨‍💻</h1>
+<h1 align="center">🚀 AI Engineer | Web Automation | Machine Learning Innovator</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Engineer-%2300bfff?style=for-the-badge&logo=artificial-intelligence&logoColor=white">
@@ -13,44 +13,54 @@
 
 ---
 
-## 🌌 About Me
+## 🌟 Who Am I?
 
-As an **AI & Web Automation Engineer**, I am passionate about transforming futuristic ideas into reality. With expertise in **Machine Learning**, **Computer Vision**, and **AI-driven automations**, I thrive on innovation, pushing boundaries through technology, and solving real-world challenges.
+👋 Hi, I’m **Chedly Ghorbel**, an **AI & Web Automation Engineer** with a passion for **solving complex problems with intelligent automation**. My expertise lies in:
+- 🔥 **Machine Learning** & **Deep Learning**
+- 🎯 **Computer Vision & Image Processing**
+- 🌍 **AI for Social Good & Industrial Applications**
+- 🏆 **Hackathon-Winning AI Innovations**
+- 🚀 **End-to-End AI Model Deployment & Web Automation**
 
----
+I specialize in building AI-powered applications that **push the boundaries of automation and intelligence**. Whether it's **real-time analytics, automation, or AI-driven insights**, I bring ideas to life.
 
-## 🚀 Notable Projects & Achievements
-
-### **Deimos – Space Exploration Innovation**
-- 🏆 *1st Place - IEEE ATEC Hackathon*
-- 🚀 Developed groundbreaking solutions to advance space exploration technologies.
-
-### **Optichain – AI for Pharmaceutical Supply Chains**
-- 🔍 Enhanced quality control using **YOLOv8**, **EasyOCR**, and **OpenCV**.
-- 🤖 Developed **Opia LLM** powered by **TinyLlama (1.1B params)** for medication insights.
-
-### **AquaSense – AI-Powered Water Monitoring**
-- 🏆 *Finalist - Sustainable Minds 2 Hackathon*
-- 💧 Utilized **YOLOv8** to detect water pollutants, ensuring environmental safety.
-- 🌿 Implemented machine learning-based **Decision Trees** for water quality assessment.
-
-### **AI-Enhanced Secure File Transfer**
-- 🏆 *1st Place - HACKATHON 6.0 (Cybersecurity)*
-- 🔒 Integrated ML-based malware detection for proactive threat defense.
-- 🛡️ Developed dynamic automated port security measures for secure file transfers.
-
-### **PeaceLens – Real-Time Violence Detection**
-- 🥉 *3rd Place - Gotham Hack (AI for Social Good)*
-- 🛡️ Implemented deep learning-powered violence detection in real-time video feeds.
-- 🌐 Aligned AI-driven safety solutions with **UN SDG 16**.
-
-### **AEROLINK – AI for Airline Operations**
-- ✈️ Applied predictive analytics to mitigate flight delays.
-- 📊 Developed business intelligence dashboards for operational efficiency.
+💡 **Looking for someone who can turn AI innovation into business impact? Let’s talk.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Highlighted Projects & Achievements
+
+### 🛰 **Deimos – Space Exploration Innovation**
+🏆 **1st Place - IEEE ATEC Hackathon**
+- 🚀 Developed AI-driven solutions for aerospace technologies.
+- 📡 Advanced computer vision models for **space exploration analysis**.
+
+### 🔗 **Optichain – AI for Pharmaceutical Supply Chains**
+- 🤖 **AI-driven smart automation** for medicine tracking & quality control.
+- 🔍 Leveraged **YOLOv8**, **EasyOCR**, and **Opia LLM (TinyLlama 1.1B params)**.
+
+### 💧 **AquaSense – AI-Powered Water Monitoring**
+🏆 **Finalist - Sustainable Minds 2 Hackathon**
+- 💡 Developed **real-time water pollution detection** using AI.
+- 🌱 Implemented **machine learning-based environmental monitoring**.
+
+### 🔒 **AI-Enhanced Secure File Transfer**
+🏆 **1st Place - HACKATHON 6.0 (Cybersecurity)**
+- 🛡️ Integrated **ML-based malware detection** for cybersecurity.
+- 🔐 Automated **AI-powered encryption & threat defense**.
+
+### 🛡 **PeaceLens – AI for Public Safety**
+🥉 **3rd Place - Gotham Hack**
+- 📹 Developed **real-time AI-driven violence detection**.
+- 🚔 Integrated deep learning models to enhance public security.
+
+### ✈ **AEROLINK – AI for Airline Operations**
+- ✈️ Created **AI-powered flight delay predictions**.
+- 📊 Designed **business intelligence dashboards** for efficiency.
+
+---
+
+## 🛠️ Tech Stack & Expertise
 
 ```json
 {
@@ -64,7 +74,7 @@ As an **AI & Web Automation Engineer**, I am passionate about transforming futur
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats">
@@ -74,7 +84,17 @@ As an **AI & Web Automation Engineer**, I am passionate about transforming futur
 
 ---
 
-## 🌐 Connect with Me
+## 💼 **Why Work With Me?**
+✅ **AI-Powered Innovation** – I thrive on designing **cutting-edge AI models** that drive business success.  
+✅ **Problem-Solver Mindset** – I analyze **complex challenges** and turn them into practical AI solutions.  
+✅ **Automation & Optimization** – I optimize workflows with **intelligent AI & automation strategies**.  
+✅ **Award-Winning Hackathon Competitor** – Proven success in **high-pressure, innovation-driven environments**.  
+
+🚀 **I’m open to collaborations, freelance AI projects, and exciting job opportunities!** 🚀
+
+---
+
+## 📬 Let’s Connect & Collaborate!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chedhlyghorbel/"><img src="https://img.shields.io/badge/LinkedIn-%230077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -88,4 +108,4 @@ As an **AI & Web Automation Engineer**, I am passionate about transforming futur
 
 ---
 
-⭐ **Innovate. Automate. Dominate.** ⭐
+⭐ **Innovate. Automate. Elevate.** ⭐
