@@ -1,8 +1,6 @@
-
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZhYTU1YzQ5YzI1ZmU4YjY2ZGUxNGQyOTNiYzMwYzVjZjM4ZmU3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoW1mF5eWRiQU/giphy.gif" width="450" alt="Quantum AI Portal">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY0YzY2ZTdjYzM0ZDY2N2Q3N2U4ZmM5MjZhN2NhMzQyYzQ4YjY5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLybiU/giphy.gif" width="400" alt="Futuristic AI Portal">
 </p>
-
 # **🚀 CHEDLY GHORBEL**  
 ## *AI Engineer | Web Automation Specialist | Machine Learning Innovator*  
 
@@ -98,13 +96,9 @@ I’m **Chedly Ghorbel**, a forward-thinking **AI and Web Automation Engineer** 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chedhlyghorbel/"><img src="https://img.shields.io/badge/LinkedIn-%2300D4FF?style=for-the-badge&logo=linkedin&logoColor=white&border=2px solid #FF00FF"></a>  
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23FF00FF?style=for-the-badge&logo=gmail&logoColor=white&border=2px solid #00D4FF"></a>  
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%2300D4FF?style=for-the-badge&logo=twitter&logoColor=white&border=2px solid #FF00FF"></a>
+  <a href="mailto:chedhlyghorbel@gmail.com"><img src="https://img.shields.io/badge/Email-%23FF00FF?style=for-the-badge&logo=gmail&logoColor=white&border=2px solid #00D4FF"></a>  
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQyYzZhYzQ5MjRhMjQ2YzkyNTMwYzMwMzMwNGVjYzQ0YzVjYzNhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKz2bHNdigqYdYQ/giphy.gif" width="300" alt="Holo Gateway">
-</p>
 
 <p align="center">
   <strong>🌌 Engineering the Future with Precision and Vision 🌌</strong>
