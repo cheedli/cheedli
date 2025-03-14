@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY0YzY2ZTdjYzM0ZDY2N2Q3N2U4ZmM5MjZhN2NhMzQyYzQ4YjY5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLybiU/giphy.gif" width="400" alt="Futuristic AI Portal">
 </p>
+
 # **🚀 CHEDLY GHORBEL**  
 ## *AI Engineer | Web Automation Specialist | Machine Learning Innovator*  
 
