@@ -5,11 +5,7 @@
 # **🚀 CHEDLY GHORBEL**  
 ## *AI Engineer | Web Automation Specialist | Machine Learning Innovator*  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/chedhlyghorbel/"><img src="https://img.shields.io/badge/LinkedIn-%2300D4FF?style=for-the-badge&logo=linkedin&logoColor=white&border=2px solid #FF00FF"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-%23FF00FF?style=for-the-badge&logo=gmail&logoColor=white&border=2px solid #00D4FF"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%2300D4FF?style=for-the-badge&logo=twitter&logoColor=white&border=2px solid #FF00FF"></a>
-</p>
+
 
 ---
 
@@ -74,9 +70,9 @@ I’m **Chedly Ghorbel**, a forward-thinking **AI and Web Automation Engineer** 
 ## **📡 GitHub Cosmos**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vision-friendly-dark&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=FF00FF" alt="GitHub Stats">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=vision-friendly-dark&ring=FF00FF&fire=00D4FF&currStreakLabel=FF00FF" alt="GitHub Streak">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheedli&show_icons=true&theme=vision-friendly-dark&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=FF00FF" alt="GitHub Stats">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheedli&theme=vision-friendly-dark&ring=FF00FF&fire=00D4FF&currStreakLabel=FF00FF" alt="GitHub Streak">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheedli&layout=compact&theme=vision-friendly-dark&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages">
 </p>
 
 ---
