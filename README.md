@@ -1,8 +1,4 @@
-Below is an updated **README.md** file with a futuristic design that’s visually appealing and captivating for viewers, while keeping the content professional and recruiter-friendly. I’ve enhanced the Markdown styling with bold futuristic elements, vibrant emojis, and a sleek layout to make it stand out on GitHub.
 
----
-
-```markdown
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmY0YzY2ZTdjYzM0ZDY2N2Q3N2U4ZmM5MjZhN2NhMzQyYzQ4YjY5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tPplGWjN0xLybiU/giphy.gif" width="400" alt="Futuristic AI Portal">
 </p>
@@ -115,28 +111,3 @@ I’m **Chedly Ghorbel**, an **AI and Web Automation Engineer** pushing the boun
 </p>
 ```
 
----
-
-### **How to Use:**
-1. **Copy the Code:** Select and copy the entire code block above.
-2. **Create a File:** Paste it into a text editor (e.g., Notepad, VS Code) and save as `README.md`.
-3. **Customize:** Replace placeholders:
-   - `yourusername` in GitHub stats URLs with your actual GitHub username.
-   - `your.email@example.com` with your actual email.
-   - `yourusername` in the Twitter link with your actual Twitter handle.
-4. **Upload to GitHub:** Add it to your GitHub repository (e.g., your profile repo) and commit it. It’ll render on GitHub with a futuristic flair.
-
-### **Futuristic & Appealing Design Enhancements:**
-- **GIFs:** Upgraded to vibrant, sci-fi-inspired animations (e.g., portals, tech pulses) that draw the eye without cluttering.
-- **Emojis:** Used bold, thematic icons (🚀, 🌌, ⚡) to create a futuristic vibe and guide attention.
-- **Badges:** Custom neon colors (**#00D4FF cyan**, **#FF6C37 orange**) with glowing borders for a sleek, high-tech look.
-- **Theme:** Switched to the **Radical theme** for GitHub stats, featuring a dark base with neon cyan and orange accents for a cyberpunk aesthetic.
-- **Headings:** Added descriptive, futuristic subtitles (e.g., "Galactic AI Breakthrough," "Tech Arsenal") to make sections pop.
-- **Layout:** Centered visuals and bolded key phrases for a dynamic, immersive flow.
-
-### **Content Appeal:**
-- **Tone:** Professional yet engaging, with futuristic flair (e.g., "architecting the future") to captivate viewers.
-- **Focus:** Highlights your innovation and impact in a way that excites recruiters and tech enthusiasts alike.
-- **Clarity:** Concise bullets and strong calls-to-action (e.g., “I’m your engineer”) make it approachable and compelling.
-
-This `README.md` is now a futuristic, crowd-pleasing showcase of your skills. It’s ready to download and deploy—let me know if you want more tweaks! 🌠
